@@ -1,0 +1,4 @@
+[package]
+name = "bevy_denshi_ika_utils"
+version = "0.1.0"
+edition = "2021"
